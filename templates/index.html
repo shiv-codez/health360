@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="intro">
+  <h1>Which patients are at risk, and why?</h1>
+  <p>Health360 looks at 5,000 patient records to show how age, BMI, blood pressure, cholesterol,
+     glucose and lifestyle relate to heart disease, diabetes and stroke.</p>
+  <div class="actions">
+    <a class="btn" href="{{ url_for('dashboard') }}">Open the dashboard</a>
+    <a class="btn ghost" href="{{ url_for('story') }}">Read the story</a>
+  </div>
+</section>
+<section class="facts">
+  <div><strong>5,000</strong><span>patient records</span></div>
+  <div><strong>30.0%</strong><span>have heart disease</span></div>
+  <div><strong>22.0%</strong><span>are high risk</span></div>
+</section>
+{% endblock %}
