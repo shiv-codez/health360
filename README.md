@@ -4,7 +4,7 @@ A Tableau Public project (9 visualizations, 1 dashboard, 1 story) embedded in a 
 
 - Dashboard: https://public.tableau.com/app/profile/shivam.singh2218/viz/Health360_17932068115940/Health360Dashboard
 - Story: https://public.tableau.com/app/profile/shivam.singh2218/viz/Health360_17932068115940/Health360Story
-- Demo Video : https://drive.google.com/file/d/1N740-avsLLOra_YkecqcoesfHuzYYbzS/view
+- Demo Video : https://drive.google.com/file/d/1N740-avsLLOra_YkecqcoesfHuzYYbzS/view?usp=sharing
 
 
 ## Dataset
